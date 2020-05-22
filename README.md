@@ -1,5 +1,5 @@
 # Tkinter-Image-Viewer
-This is simple Image Viewer interface built using Tkinter and PIL.
+This a is simple Image Viewer interface built using Tkinter and PIL.
 
 To display image in Python is as simple as that. But, the problem is PhotoImage class only supports GIF and PGM/PPM formats.
  
