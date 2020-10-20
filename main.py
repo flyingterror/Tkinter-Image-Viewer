@@ -2,7 +2,7 @@ from tkinter import *
 from PIL import ImageTk,Image
  
 root = Tk(className ='Photos')
-root.iconbitmap('image/icon.ico') 
+ 
 
 myimage1 = ImageTk.PhotoImage(Image.open('image/1.jpg'))
 myimage2 = ImageTk.PhotoImage(Image.open('image/2.jpg'))
