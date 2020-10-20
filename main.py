@@ -2,6 +2,7 @@ from tkinter import *
 from PIL import ImageTk,Image
  
 root = Tk(className ='Photos')
+//removed icon
  
 
 myimage1 = ImageTk.PhotoImage(Image.open('image/1.jpg'))
